@@ -3,32 +3,32 @@
 
   <!-- HOME -->
   <url>
-    <loc>https://www.videoispezionecannafumaria.it/</loc>
+    <loc>https://videoispezionecannafumaria.it/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- BLOG -->
   <url>
-    <loc>https://www.videoispezionecannafumaria.it/blog/</loc>
+    <loc>https://videoispezionecannafumaria.it/blog/</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.videoispezionecannafumaria.it/blog/videoispezione-canna-fumaria-lodi.html</loc>
+    <loc>https://videoispezionecannafumaria.it/blog/videoispezione-canna-fumaria-lodi.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.videoispezionecannafumaria.it/blog/pulizia-canna-fumaria-lodigiano.html</loc>
+    <loc>https://videoispezionecannafumaria.it/blog/pulizia-canna-fumaria-lodigiano.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.videoispezionecannafumaria.it/blog/certificato-canna-fumaria-lombardia.html</loc>
+    <loc>https://videoispezionecannafumaria.it/blog/certificato-canna-fumaria-lombardia.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -36,83 +36,83 @@
 
   <!-- PAGINE LEGALI -->
   <url>
-    <loc>https://www.videoispezionecannafumaria.it/privacy.html</loc>
+    <loc>https://videoispezionecannafumaria.it/privacy.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.videoispezionecannafumaria.it/cookie.html</loc>
+    <loc>https://videoispezionecannafumaria.it/cookie.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- PAGINE CITTÀ -->
-  <url><loc>https://www.videoispezionecannafumaria.it/san-donato-milanese/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/san-giuliano-milanese/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/sesto-ulteriano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/poasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/noverasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/segrate/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/peschiera-borromeo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/rodano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/pioltello/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/settala/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/pantigliate/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/comazzo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/merlino/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/paullo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/tribiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/siziano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/zelo-buon-persico/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/spino-d-adda/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/pandino/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/crema/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/bagnolo-cremasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/crespiatica/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/boffalora-d-adda/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/montanaso-lombardo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/dovera/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/lodi/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/cervignano-d-adda/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/mulazzano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/sordio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/dresano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/mediglia/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/marudo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/triginto/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/riozzo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/melegnano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/bornasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/san-zenone-sul-lambro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/tavazzano-con-villavesco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/salerano-al-lambro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/lodi-vecchio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/valera-fratta/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/torre-vecchia-pia/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/villanterio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/sant-angelo-lodigiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/san-colombano-al-lambro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/massalengo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/borghetto-lodigiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/opera/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/san-martino-in-strada/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/brembio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/ossago-lodigiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/livraga/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/basiasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/mairano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/cavenago-d-adda/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/turano-lodigiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/secugnago/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/codogno/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/graffignana/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/belgioioso/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/caselle-lurani/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/carpiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/lacchiarella/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/san-donato-milanese/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/san-giuliano-milanese/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/sesto-ulteriano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/poasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/noverasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/segrate/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/peschiera-borromeo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/rodano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/pioltello/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/settala/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/pantigliate/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/comazzo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/merlino/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/paullo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/tribiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/siziano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/zelo-buon-persico/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/spino-d-adda/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/pandino/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/crema/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/bagnolo-cremasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/crespiatica/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/boffalora-d-adda/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/montanaso-lombardo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/dovera/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/lodi/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/cervignano-d-adda/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/mulazzano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/sordio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/dresano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/mediglia/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/marudo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/triginto/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/riozzo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/melegnano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/bornasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/san-zenone-sul-lambro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/tavazzano-con-villavesco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/salerano-al-lambro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/lodi-vecchio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/valera-fratta/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/torre-vecchia-pia/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/villanterio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/sant-angelo-lodigiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/san-colombano-al-lambro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/massalengo/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/borghetto-lodigiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/opera/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/san-martino-in-strada/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/brembio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/ossago-lodigiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/livraga/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/basiasco/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/mairano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/cavenago-d-adda/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/turano-lodigiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/secugnago/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/codogno/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/graffignana/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/belgioioso/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/caselle-lurani/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/carpiano/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/lacchiarella/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-  <url><loc>https://www.videoispezionecannafumaria.it/blog/</loc><lastmod>2026-05-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/blog/videoispezione-canna-fumaria-lodi.html</loc><lastmod>2026-05-29</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/blog/pulizia-canna-fumaria-lodigiano.html</loc><lastmod>2026-05-29</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://www.videoispezionecannafumaria.it/blog/certificato-canna-fumaria-lombardia.html</loc><lastmod>2026-05-29</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/blog/</loc><lastmod>2026-05-29</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/blog/videoispezione-canna-fumaria-lodi.html</loc><lastmod>2026-05-29</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/blog/pulizia-canna-fumaria-lodigiano.html</loc><lastmod>2026-05-29</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://videoispezionecannafumaria.it/blog/certificato-canna-fumaria-lombardia.html</loc><lastmod>2026-05-29</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 </urlset>

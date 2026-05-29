@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.videoispezionecannafumaria.it/sitemap.xml
+Sitemap: https://videoispezionecannafumaria.it/sitemap.xml
